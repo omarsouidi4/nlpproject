@@ -1,0 +1,2 @@
+Work in progress : 
+For the moment I did all 3 first steps, I did my processing pipeline but I think my dataset is too big even with the subset I created the training take too long. I am working on it now so I did'nt had the time to finish all the work yet. 
